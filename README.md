@@ -12,6 +12,13 @@ Usage:
 
     $ node app.js
 
+Exercise of getting it up on your webserver is left to the reader.
+
+Then you can simply:
+
+    $ curl whatismyip.example.com:1337
+        > 127.0.0.1
+
 Enjoy!
 
 License
